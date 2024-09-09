@@ -5,11 +5,11 @@ https://sepolia.etherscan.io/verifyContract-solc-multiple?a=0x02ca8F74eBE1801ed0
 Game Token (GT) is an ERC-20 token designed for in-game transactions and reward systems. This smart contract is deployed on the Sepolia Testnet and allows the admin to mint tokens for users within the game environment.
 
 ## Contract Details
-Token Name: Game
-Token Symbol: GT
-Total Supply: 100 GT initially minted to the admin's address.
-Contract Type: ERC-20 Token
-Network: Sepolia Testnet
+- Token Name: Game
+- Token Symbol: GT
+- Total Supply: 100 GT initially minted to the admin's address.
+- Contract Type: ERC-20 Token
+- Network: Sepolia Testnet
 
 ## Features
 Minting:
