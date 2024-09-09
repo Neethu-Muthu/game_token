@@ -1,4 +1,6 @@
-Verification Link: https://sepolia.etherscan.io/verifyContract-solc-multiple?a=0x02ca8F74eBE1801ed07DD5f0cC130Ab2a40A2F1A&c=v0.8.23%2bcommit.f704f362&lictype=3
+Verification Link: 
+https://sepolia.etherscan.io/verifyContract-solc-multiple?a=0x02ca8F74eBE1801ed07DD5f0cC130Ab2a40A2F1A&c=v0.8.23%2bcommit.f704f362&lictype=3
+
 # Use Case: Game Tournament Prize Pool
 ## Overview:
 Game Token (GT) can be used as a prize pool for competitive gaming tournaments. This encourages participation by providing a tangible reward for players or teams who win tournaments or complete competitive challenges.
